@@ -31,7 +31,7 @@ STORAGEACCOUNTKEY="XXXXX"
 
 Go to project directory and run<br>
 
-$python overlay-encoding.py<br>
+$python overlay-thumbnail-encoding.py<br>
 Getting .env values<br>
 Creating AMS client<br>
 Creating input asset inputassetName8374<br>
